@@ -1,5 +1,1 @@
-show
-log
-checkout
-init
-reset
+change on devel
