@@ -1,5 +1,15 @@
+*.zip
+**/build/
 *.exe
 *.obj
-*.lib
 *.dll
+*.lib
 *.exp
+*.pdb
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
