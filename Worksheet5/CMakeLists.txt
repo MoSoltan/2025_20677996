@@ -19,4 +19,3 @@ install(TARGETS calc maths
   LIBRARY DESTINATION lib
   ARCHIVE DESTINATION lib/static
 )
-
